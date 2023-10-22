@@ -32,6 +32,10 @@ Enjoy real-time sorting with voice assistant guidance.
 
  ![image](https://github.com/shukla307/Sorting-Visualizer/assets/78009394/64b24ca3-ec1f-4e77-9c63-5f16e3dccfe2)
 
+ <img width="548" alt="image" src="https://github.com/shukla307/Sorting-Visualizer/assets/78009394/2f33952e-eedd-405e-83f7-2045d4c57bcc">
+ 
+
+
 
 
  
